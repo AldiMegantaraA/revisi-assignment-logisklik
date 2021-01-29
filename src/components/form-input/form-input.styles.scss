@@ -27,11 +27,6 @@ $main-color: white;
     border-radius: 0 40px 40px 0;
     margin: 12px 0;
 
-    @media screen and (max-width: 786px) {
-      width: 140px;
-      margin-left: 10px;
-    }
-
     &:focus {
       outline: none;
     }

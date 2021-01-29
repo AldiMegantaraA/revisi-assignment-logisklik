@@ -16,16 +16,11 @@
             display: flex;
             position: absolute;
             align-items: center;
-            margin-left: 260px;
+            margin-left: 150px;
             justify-content: center;
 
-            @media screen and (max-width: 786px) {
+            @media screen and (max-width: 768px) {
                 display: block;
-                margin-left: 120px;
-            }
-
-            @media screen and (max-width: 480px) {
-                margin-left: 64px;
             }
         
             .pilihan-bahasa {
