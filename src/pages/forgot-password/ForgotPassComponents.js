@@ -1,5 +1,11 @@
 import styled from 'styled-components';
 
+
+export const ForgotPasswordContainer = styled.div`
+    width: 100%;
+`
+
+
 export const HeroBg = styled.div`
     position: absolute;
     top: 0;

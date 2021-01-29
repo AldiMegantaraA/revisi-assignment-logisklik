@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import { HeroBg, ImageBg } from './ForgotPassComponents'
+import { HeroBg, ImageBg, ForgotPasswordContainer } from './ForgotPassComponents'
 import Img from '../../assets/backgroud.svg'
 import Header from '../../components/header/header.component'
 
@@ -15,12 +15,14 @@ const ForgotPassword = () => {
     }
     return (
         <> 
-            <HeroBg>
-                <ImageBg src={Img} className='bg'/>
-            </HeroBg>
-            <Sidebar isOpen={isOpen} toggle={toggle}/>
-            <Header toggle={toggle}/>
-            <LupaPassword />
+            <ForgotPasswordContainer>
+                <HeroBg>
+                    <ImageBg src={Img} className='bg'/>
+                </HeroBg>
+                <Sidebar isOpen={isOpen} toggle={toggle}/>
+                <Header toggle={toggle}/>
+                <LupaPassword />
+            </ForgotPasswordContainer>
         </>
     )
 }

@@ -1,7 +1,6 @@
 import React from 'react';
 import './sidebar.styles.scss';
 import { Link } from 'react-router-dom';
-import CustomButton from '../../custom-button/custom-button.component';
 import { SidebarContainer, Icon, CloseIcon, SidebarWrapper, SidebarMenu, SidebarLink } from './SidebarElements';
 import Indo from '../../assets/indo.svg'
 import Eng from '../../assets/engl.svg'
