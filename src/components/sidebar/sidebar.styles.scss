@@ -1,0 +1,119 @@
+
+
+.sidebar-container {
+    background-color: rgba($color: white, $alpha: 1.0);
+    .sidebar-wrapper {
+
+        .sidebar-menu {
+            margin-right: 40px;
+            .option {
+                border-bottom: 2px solid #FFB600;
+            }
+        }
+
+
+        .header-kanan {
+            display: flex;
+            position: absolute;
+            align-items: center;
+            margin-left: 260px;
+            justify-content: center;
+
+            @media screen and (max-width: 786px) {
+                display: block;
+                margin-left: 120px;
+            }
+        
+            .pilihan-bahasa {
+                display: flex;
+                justify-content: flex-start;
+
+                @media screen and (max-width: 786px) {
+                    justify-content: center;
+                    flex-direction: row;
+                    margin-top: 12px;
+                }
+            
+                .bahasa {
+                    display: flex;
+                    align-items: center;
+        
+                    .indflag {
+                        width: 32px;
+                        height: 18px;
+
+                        @media screen and (max-width: 786px) {
+                            width: 40px;
+                            height: 24px;
+                        }
+                    }
+        
+                    .engflag {
+                        width: 32px;
+                        height: 18px;
+                        @media screen and (max-width: 786px) {
+                            width: 40px;
+                            height: 24px;
+                        }
+                    }
+                    
+                    .indonesia {
+                        color: #707070;
+                        font-size: 12px;
+                        margin-right: 12px;
+                    }
+        
+                    .english {
+                        color: #707070;
+                        font-size: 12px;
+                    }
+                }
+            }
+        
+        
+            .buttons {
+                padding-top: 20px;
+                padding-bottom: 20px;
+                display: flex;
+                align-items: center;
+                
+        
+                .tombol1 {
+                    width: 120px;
+                    height: 36px;
+                    color: white;
+                    font-size: 14px;
+                    padding: 12px;
+                    font-weight: bolder;
+                    border: none;
+                    margin-right: 16px;
+                    cursor: pointer;
+                    border-radius: 40px;
+                    background-color: #0D579A;
+                
+                    &:hover {
+                    background-color: #FFB600;
+                    }
+                }
+        
+                .tombol2 {
+                    width: 120px;
+                    height: 36px;
+                    color: white;
+                    font-size: 12px;
+                    padding: 14px;
+                    font-weight: bolder;
+                    border: none;
+                    cursor: pointer;
+                    border-radius: 40px;
+                    background-color: #0D579A;
+                
+                    &:hover {
+                    background-color: #FFB600;
+                    }
+                }
+            }
+        }
+    }
+}
+
