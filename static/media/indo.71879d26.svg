@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="24" viewBox="0 0 36 24">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 320 213">
+      <image width="320" height="213" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADVAgMAAABbIsF9AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACVBMVEXtHCT2jZH////XA5hjAAAAAWJLR0QCZgt8ZAAAAAd0SU1FB+QIFhElJ1QeHH0AAABESURBVHja7cwxAQAACAOglbSkKS2xTwhAAgAAAAAAAABAyZRly4RCoVAoFAqFQqFQKBQKhUKhUCgUCoVCoVAoFArfhgeX9xsbVPZBlAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOC0yMlQxNzozNzozOSswMDowMNb0FrUAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDgtMjJUMTc6Mzc6MzkrMDA6MDCnqa4JAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <rect id="_320px-Flag_of_Indonesia__physical_version_.svg" data-name="320px-Flag_of_Indonesia_(physical_version).svg" width="36" height="24" fill="url(#pattern)"/>
+</svg>
