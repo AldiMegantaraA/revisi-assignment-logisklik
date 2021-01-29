@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/revisi-assignment-logisklik/static/css/main.f721484e.chunk.css",
+    "main.css": "/revisi-assignment-logisklik/static/css/main.bfd3bbe5.chunk.css",
     "main.js": "/revisi-assignment-logisklik/static/js/main.a763d72d.chunk.js",
     "main.js.map": "/revisi-assignment-logisklik/static/js/main.a763d72d.chunk.js.map",
     "runtime-main.js": "/revisi-assignment-logisklik/static/js/runtime-main.1d957b13.js",
@@ -8,7 +8,7 @@
     "static/js/2.f59ac56b.chunk.js": "/revisi-assignment-logisklik/static/js/2.f59ac56b.chunk.js",
     "static/js/2.f59ac56b.chunk.js.map": "/revisi-assignment-logisklik/static/js/2.f59ac56b.chunk.js.map",
     "index.html": "/revisi-assignment-logisklik/index.html",
-    "static/css/main.f721484e.chunk.css.map": "/revisi-assignment-logisklik/static/css/main.f721484e.chunk.css.map",
+    "static/css/main.bfd3bbe5.chunk.css.map": "/revisi-assignment-logisklik/static/css/main.bfd3bbe5.chunk.css.map",
     "static/js/2.f59ac56b.chunk.js.LICENSE.txt": "/revisi-assignment-logisklik/static/js/2.f59ac56b.chunk.js.LICENSE.txt",
     "static/media/Mail.85c81bf3.svg": "/revisi-assignment-logisklik/static/media/Mail.85c81bf3.svg",
     "static/media/backgroud.4b5f6158.svg": "/revisi-assignment-logisklik/static/media/backgroud.4b5f6158.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.1d957b13.js",
     "static/js/2.f59ac56b.chunk.js",
-    "static/css/main.f721484e.chunk.css",
+    "static/css/main.bfd3bbe5.chunk.css",
     "static/js/main.a763d72d.chunk.js"
   ]
 }
