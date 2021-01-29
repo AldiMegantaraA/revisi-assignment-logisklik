@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/revisi-assignment-logisklik/static/css/main.2317fe4c.chunk.css",
-    "main.js": "/revisi-assignment-logisklik/static/js/main.94f9e047.chunk.js",
-    "main.js.map": "/revisi-assignment-logisklik/static/js/main.94f9e047.chunk.js.map",
+    "main.css": "/revisi-assignment-logisklik/static/css/main.f721484e.chunk.css",
+    "main.js": "/revisi-assignment-logisklik/static/js/main.a763d72d.chunk.js",
+    "main.js.map": "/revisi-assignment-logisklik/static/js/main.a763d72d.chunk.js.map",
     "runtime-main.js": "/revisi-assignment-logisklik/static/js/runtime-main.1d957b13.js",
     "runtime-main.js.map": "/revisi-assignment-logisklik/static/js/runtime-main.1d957b13.js.map",
     "static/js/2.f59ac56b.chunk.js": "/revisi-assignment-logisklik/static/js/2.f59ac56b.chunk.js",
     "static/js/2.f59ac56b.chunk.js.map": "/revisi-assignment-logisklik/static/js/2.f59ac56b.chunk.js.map",
     "index.html": "/revisi-assignment-logisklik/index.html",
-    "static/css/main.2317fe4c.chunk.css.map": "/revisi-assignment-logisklik/static/css/main.2317fe4c.chunk.css.map",
+    "static/css/main.f721484e.chunk.css.map": "/revisi-assignment-logisklik/static/css/main.f721484e.chunk.css.map",
     "static/js/2.f59ac56b.chunk.js.LICENSE.txt": "/revisi-assignment-logisklik/static/js/2.f59ac56b.chunk.js.LICENSE.txt",
     "static/media/Mail.85c81bf3.svg": "/revisi-assignment-logisklik/static/media/Mail.85c81bf3.svg",
     "static/media/backgroud.4b5f6158.svg": "/revisi-assignment-logisklik/static/media/backgroud.4b5f6158.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.1d957b13.js",
     "static/js/2.f59ac56b.chunk.js",
-    "static/css/main.2317fe4c.chunk.css",
-    "static/js/main.94f9e047.chunk.js"
+    "static/css/main.f721484e.chunk.css",
+    "static/js/main.a763d72d.chunk.js"
   ]
 }
