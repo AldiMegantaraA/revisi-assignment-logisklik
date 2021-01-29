@@ -3,9 +3,11 @@
 .sidebar-container {
     background-color: rgba($color: white, $alpha: 1.0);
     .sidebar-wrapper {
+        align-items: center;
+        justify-content: center;
 
         .sidebar-menu {
-            margin-right: 40px;
+            margin-right: 0;
             .option {
                 border-bottom: 2px solid #FFB600;
             }
@@ -21,7 +23,17 @@
 
             @media screen and (max-width: 768px) {
                 display: block;
+                margin-left: 120px;
+            }
+
+            @media screen and (max-width: 480px) {
+                display: block;
                 margin-left: 64px;
+            }
+
+            @media screen and (max-width: 300px) {
+                display: block;
+                margin-left: 38px;
             }
         
             .pilihan-bahasa {
